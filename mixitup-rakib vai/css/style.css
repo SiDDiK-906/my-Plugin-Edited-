@@ -1,0 +1,114 @@
+/*======================================
+		Common CSS Section Start
+======================================*/
+body{
+	overflow-x: hidden;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p{
+	padding: 0;
+	margin: 0;
+}
+ul,
+ol{
+	list-style: none;
+}
+a{
+	text-decoration: none !important;
+}
+.flex{
+	display: flex;
+}
+/*======================================
+		Common CSS Section End
+======================================*/
+/* ==============================
+	 Menu Section Start 
+================================*/
+#menu{
+	background: url(../images/menu_bg.png) no-repeat center;
+	background-size: cover;
+	padding: 100px 0;
+	text-align: center;
+}
+#menu .main{
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin-top: 40px;
+	padding: 0 !important;
+}
+/* Button css */
+#menu .butt{
+	text-align: center;
+}
+#menu .butt button{
+	padding: 15px 45px;
+	margin: 0px 1px;
+	border: 2px solid #ffffff;
+	background: transparent;
+	color: #ffffff;
+	outline: none;
+	border-radius: 36px;
+	font-size: 18px;
+	font-weight: 700;
+	font-family: 'Playfair Display', serif;
+	transition: 0.4s;
+}
+#menu .mixitup-control-active{
+	background: #fecc17 !important;
+	color: #111111 !important;
+	border-color: #fecc17 !important;
+	box-shadow: 0px 5px 10px 0px rgba(117, 15, 15,1);
+}
+/* items css */
+#menu .mix{
+	background: #ffffff;
+	border-radius: 10px;
+	padding: 45px;
+	margin-bottom: 35px;
+	box-shadow: 0px 5px 15px 0px rgba(117, 15, 15,1);
+}
+#menu .mix,.gap {
+    display: inline-block;
+    width: 23%;
+}
+#menu .mix .img img{
+	width: 100%;
+	height: 100%;
+}
+#menu .mix .text h5{
+	font-size: 30px;
+	line-height: 32px;
+	color: #bf0c26;
+	font-weight: 400;
+	font-family: 'Playfair Display', serif;
+	margin-top: 25px;
+}
+#menu .mix .text h3{
+	font-size: 20px;
+	line-height: 32px;
+	color: #111111;
+	font-weight: 700;
+	font-family: 'Playfair Display', serif;
+	text-transform: capitalize;
+	margin: 25px 0 15px 0;
+}
+#menu .mix .text p{
+	font-size: 16px;
+	line-height: 24px;
+	color: #444444;
+	font-weight: 400;
+	font-family: 'Roboto', sans-serif;
+}
+/* ==============================
+	 Menu Section End 
+===============================*/

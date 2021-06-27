@@ -1,0 +1,10 @@
+.syotimer {
+	text-align: center;
+}
+.syotimer-cell {
+	display: inline-block;
+	margin: 0 5px;
+}
+.syotimer__head{
+	display: none;
+}

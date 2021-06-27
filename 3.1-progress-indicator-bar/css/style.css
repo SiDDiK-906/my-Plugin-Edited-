@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+.progbar{
+    margin-top: 100px;
+}
+.progressbar .percentCount{
+    color: #212529;
+    font-weight: bold;
+    font-family: Arial;
+    line-height: 1.5;
+    font-size: 1rem;
+    transform: rotateY(180deg);
+    position: absolute;
+    top: 18px;
+    right: 0;
+}
+.progbar .singleprogressbar{
+    transform: rotateY(180deg);
+}
+body h1{
+    margin-left: 39%;
+    margin-top: 20px;
+}

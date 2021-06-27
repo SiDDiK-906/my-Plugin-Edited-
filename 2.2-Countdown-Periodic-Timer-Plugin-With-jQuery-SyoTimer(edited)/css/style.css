@@ -1,0 +1,23 @@
+.syotimer{
+    text-align: center;
+    margin: 30px auto 0;
+    padding: 0 0 10px;
+}
+.syotimer-cell{
+    display: inline-block;
+    margin: 22px 8px;
+    width: 112px;
+    font-size: 25px;
+}
+.bgc{
+    background-color: greenyellow;
+    width: 50%;
+    height: 100px;
+    margin: 0 auto;
+}
+.syotimer__body{
+    margin-top: 89px;;
+}
+body h1{
+    margin-left: 39%;
+}

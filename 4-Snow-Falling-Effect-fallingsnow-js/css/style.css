@@ -1,0 +1,9 @@
+body{
+    background: rgb(116, 204, 255);
+}
+.snow-wrap #snow b{
+    background:red;
+}
+body h1{
+    margin-left: 39%;
+}

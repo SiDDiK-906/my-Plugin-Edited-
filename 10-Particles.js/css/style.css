@@ -1,0 +1,16 @@
+.text{
+    height: 100%;
+    width: 100%;
+    background: green;
+    position: absolute;
+    z-index: -1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#particles-js{
+    background-color: transparent !important;
+}
+div[style="position: absolute; top: 0px; left: 0px; cursor: pointer; opacity: 0.9; z-index: 10000;"]{
+    display: none;
+}

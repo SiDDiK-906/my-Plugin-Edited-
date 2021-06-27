@@ -1,0 +1,25 @@
+body{
+    /* margin-left: 600px;
+    margin-top: 200px; */
+}
+.img1{
+    width: 50%;
+}
+.img2{
+    width: 15%;
+}
+.two{
+    left: 43% !important;
+    top: 53% !important;
+}
+.scene{
+    margin-left: 20%;
+}
+.img1{
+    position: relative;
+    left: 22%;
+    top: 10%;
+}
+body h1{
+    margin-left: 39%;
+}

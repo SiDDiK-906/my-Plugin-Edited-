@@ -1,0 +1,13 @@
+.bgc{
+    background-color: greenyellow;
+    height: 100px;
+    width: 50%;
+    margin: 85px auto;
+}
+.counter{
+    margin: 27px 60px;
+    font-size: 35px;
+}
+body h1{
+    margin-left: 39%;
+}

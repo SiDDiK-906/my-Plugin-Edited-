@@ -1,0 +1,24 @@
+.vbox-content{
+    margin-top: 15px !important;
+}
+body a{
+    margin-left: 85px;
+}
+.venu{
+    margin-left: 23%;
+    margin-top: 25px;
+}
+.venu h2{
+    display: inline-block;
+}
+.venuimg{
+    margin-left: 34%;
+    margin-top: 8%;
+}
+.venuimg h2{
+    margin-left: 50px;
+    display: inline-block;
+}
+body h1{
+    margin-left: 42%;
+}

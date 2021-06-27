@@ -1,0 +1,17 @@
+.typed-cursor {
+    display: none;
+}
+.main{
+    width: 65%;
+    margin: 0 auto;
+}
+.element{
+    border-right: 1px solid black;
+    display: inline-block;
+    color: #FF4500;
+    ;
+}
+body .title{
+    margin-left: 39%;
+    color: black;
+}

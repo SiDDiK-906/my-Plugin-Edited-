@@ -1,0 +1,71 @@
+.butt{
+    margin-top: 1%;
+    margin-left: 31%;
+}
+.container{
+    /* margin-left: 24%; */
+}
+.mix {
+    /* background: skyblue; */
+    margin: 2rem;
+}
+.mix,.gap {
+    display: inline-block;
+    width: 8%;
+    margin: 0 2rem;
+}
+.mix {
+    margin: 1rem;
+}
+.mix:before {
+    content: '';
+    display: inline-block;
+    padding-top: 100%;
+}
+body h2{
+    margin-left: 42%;
+    margin-top: 0;
+margin-bottom: 0;
+}
+.one{ background: #FFFF00;}
+.two{ background: #F0E68C; }
+.three{ background: #FFD700; }
+
+.four{background: #00FFFF; }
+.five{ background: #6495ED; }
+.six{background: #008B8B; }
+.seven{ background: #008B8B; }
+
+.eight{ background: #9ACD32; }
+.nine{ background: #2E8B57; }
+.ten{background: #32CD32; }
+.eleven{ background: #7CFC00; }
+.twelve{ background: #008000; }
+.thirteen{background: #228B22; }
+.fourteen{background: #006400; }
+
+.fifteen{ background: #0000FF; }
+.sixteen{ background: #00008B; }
+.seventeen{background: #483D8B; }
+.eighteen{background: #1E90FF; }
+.nineteen{background: #4B0082; }
+.twenty{background: #0000CD; }
+.twentyone{ background: #191970; }
+.twentytwo{background: #000080; }
+
+.twentythree{ background: #e75ee7; }
+.twentyfour{background: #800080; }
+.twentyfive{background: #663399; }
+.twentysix{background: #DA70D6; }
+.twentyseven{background: #C71585; }
+.twentyeight{ background: #8B008B; }
+
+.twentynine{ background: #FF4500; }
+.thirty{ background: #ff3434; }
+.thirtyone{ background: #dd1616; }
+.thirtytwo{ background: #DC143C; }
+.thirtythree{ background: #ff0000; }
+
+.thirtyfour{  background: #000000; }
+.thirtyfive{  background: #2F4F4F; }
+.thirtysix{   background: #2e2d2d; }
